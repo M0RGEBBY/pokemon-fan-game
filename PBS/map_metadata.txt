@@ -160,6 +160,9 @@ Bicycle = true
 HealingSpot = 1,10,5
 Environment = ForestGrass
 #-------------------------------
+[033]   # Player House
+Name = Player House
+#-------------------------------
 [034]   # Ice Cave
 Name = Route 3
 Bicycle = true
