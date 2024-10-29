@@ -116,3 +116,8 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[LEADER_FirstGym,FirstGym]
+LoseText = Your passion is white-hot!
+Pokemon = DRILBUR,14
+Pokemon = MAGBY,16
