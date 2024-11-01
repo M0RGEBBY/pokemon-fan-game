@@ -121,3 +121,14 @@ Pokemon = BLASTOISE,63
 LoseText = Your passion is white-hot!
 Pokemon = DRILBUR,14
 Pokemon = MAGBY,16
+
+#-------------------------------
+[SWAMP_WOMAN, Lebron]
+LoseText = You won!?!
+Pokemon = FROSLASS, 10
+Pokemon = SKITTY, 10
+    Shiny = yes
+    Moves = ICEBEAM,SHADOWBALL,MOONBLAST,EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20

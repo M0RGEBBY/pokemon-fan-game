@@ -406,3 +406,10 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[SWAMP_WOMAN]
+Name = Swamp Native
+Gender = Female
+BaseMoney = 100
+SkillLevel = 50
+IntroBGM = Alex Jones Meme Sound
