@@ -6571,3 +6571,28 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = An item that allows you to cut down small trees.
+#-------------------------------
+[SLEDGEHAMMER]
+Name = Sledgehammer
+NamePlural = Sledgehammers
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An item that allows you to smash rocks.
+#-------------------------------
+[POWERGLOVES]
+Name = Power Gloves
+NamePlural = Power Gloves
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An item that allows you to roll boulders.
+#-------------------------------
+[SURFBOARD]
+Name = Surfboard
+NamePlural = Surfboards
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An item that allows you to move across water.
+
