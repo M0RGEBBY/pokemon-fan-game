@@ -40,3 +40,5 @@
 69,North,0,66,South,10
 # Route 12 (43) - Pinecopse Town (32)
 43,West,0,32,East,2
+# Freshfern Town (22) - Route 12 (43)
+22,West,10,43,East,0
