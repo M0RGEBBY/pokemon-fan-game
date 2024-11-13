@@ -102,6 +102,14 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Freshfern Town
+Name = Freshfern Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,4
+Environment = Grass
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -161,7 +169,7 @@ HealingSpot = 1,10,5
 MapPosition = 0,24,4
 Environment = ForestGrass
 #-------------------------------
-[033]   # \PN House
+[033]   # \PN's House
 Name = Player House
 MapPosition = 0,24,4
 #-------------------------------
@@ -230,6 +238,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,25,4
+BattleBack = forest
 MapSize = 0,
 #-------------------------------
 [044]   # Route 6
@@ -261,6 +270,12 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]   # Freshfern Apothecary
+Name = Freshfern Apothecary
+HealingSpot = 22,21,22
+MapPosition = 0,26,4
+Environment = None
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7

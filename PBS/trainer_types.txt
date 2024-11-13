@@ -197,6 +197,32 @@ BaseMoney = 16
 Name = Lass
 Gender = Female
 BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (BW Lass)
+#-------------------------------
+[LASS2]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (XY Lass)
+#-------------------------------
+[LASS3]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (HGSS Lass)
+#-------------------------------
+[LASS4]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (ORAS Lass)
+#-------------------------------
+[OLDWOMAN]
+Name = Old Woman
+Gender = Female
+BaseMoney = 20
+SkillLevel = 15
+IntroBGM = Trainers_ Eyes Meet (HGSS Sage)
 #-------------------------------
 [POKEMONRANGER_M]
 Name = Pokémon Ranger

@@ -132,3 +132,12 @@ Pokemon = SKITTY, 10
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
+#-------------------------------
+[LASS4, Avril]
+LoseText = That Pokémon is too strong!
+Pokemon = ZIGZAGOON, 2
+Pokemon = ZIGZAGOON, 3
+#-------------------------------
+[OLDWOMAN, Edith]
+LoseText = You should do fine after all...
+Pokemon = HOOTHOOT, 4
