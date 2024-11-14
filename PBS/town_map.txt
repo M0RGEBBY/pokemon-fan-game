@@ -3,7 +3,7 @@
 [0]
 Name = Tolen
 Filename = mapRegionTolen.png
-Point = 24,4,,
+Point = 24,4,Pinecopse Town,,32,25,14
 #-------------------------------
 [1]
 Name = Essen
