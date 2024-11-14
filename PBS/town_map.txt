@@ -4,6 +4,10 @@
 Name = Tolen
 Filename = mapRegionTolen.png
 Point = 24,4,Pinecopse Town,,32,25,14
+Point = 25,4,Route 12
+Point = 26,4,Freshfern Town,,22,21,22
+Point = 26,3,Forlorn Forest East
+Point = 25,3,Forlorn Forest Center
 #-------------------------------
 [1]
 Name = Essen
