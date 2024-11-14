@@ -6572,9 +6572,9 @@ Price = 0
 Flags = KeyItem
 Description = An item that allows you to cut down small trees.
 #-------------------------------
-[SLEDGEHAMMER]
-Name = Sledgehammer
-NamePlural = Sledgehammers
+[PICKAXE]
+Name = Pickaxe
+NamePlural = Pickaxes
 Pocket = 8
 Price = 0
 Flags = KeyItem

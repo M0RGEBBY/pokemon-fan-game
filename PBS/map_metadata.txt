@@ -161,7 +161,7 @@ HealingSpot = 1,10,5
 MapPosition = 0,24,4
 Environment = ForestGrass
 #-------------------------------
-[033]   # \PN House
+[033]   # \PN's House
 Name = Player House
 MapPosition = 0,24,4
 #-------------------------------
@@ -218,7 +218,7 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
-[042]   # Swamp Route
+[042]   # The Bog
 Name = Swamp Route
 Outdoor = true
 ShowArea = true
@@ -231,6 +231,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,25,4
 MapSize = 0,
+Environment = ForestGrass
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
