@@ -1,7 +1,11 @@
-AveonTrainer - Overworld Sprites
+AveonTrainer - Overworld Sprites and Battle Backgrounds
 Delta32 - Overworld Sprites
 Ekat - Tilesets
 MrDollSteak, Rizon/Falsever, Sky High, Spherical Ice, Chrunch, *Luxio//Hacks* - DS Style 64x64 Resource
 Young-Dante - Overworld Sprites and Trainer Sprites
 Poffin_Case - Overworld Sprites
 Phyromatical - Tilesets
+Princess Phoenix - Battle Backgrounds
+carchagui - Battle Backgrounds
+Zeo254 - Tilesets
+kWharever - Battle Backgrounds
