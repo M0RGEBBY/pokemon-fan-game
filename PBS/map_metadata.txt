@@ -436,3 +436,9 @@ MapPosition = 0,25,3
 #-------------------------------
 [077]   # Route 4
 Name = Route 4
+#-------------------------------
+[080]   # Bracksedge Town
+Name = Bracksedge Town
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
