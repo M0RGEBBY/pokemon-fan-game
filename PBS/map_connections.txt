@@ -24,14 +24,10 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# Freshfern Town (22) - Route 12 (43)
-22,West,10,43,East,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Route 12 (43) - Pinecopse Town (32)
-43,West,0,32,East,2
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -44,3 +40,9 @@
 69,North,0,66,South,10
 # Route 4 (77) - Bracksedge Town (80)
 77,South,0,80,North,24
+# Route 12 (43) - Freshfern Town (22)
+43,East,0,22,West,10
+# Route 11 (81) - Freshfern Town (22)
+81,West,0,22,East,15
+# Pinecopse Town (32) - Route 12 (43)
+32,East,2,43,West,0
