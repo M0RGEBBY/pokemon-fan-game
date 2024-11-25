@@ -104,6 +104,10 @@ MapSize = 1,11
 #-------------------------------
 [022]   # Freshfern Town
 Name = Freshfern Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,100
 MapPosition = 0,26,4
 #-------------------------------
 [023]   # Lerucean Town
@@ -442,3 +446,12 @@ Name = Bracksedge Town
 ShowArea = true
 Bicycle = true
 Weather = Rain,10
+#-------------------------------
+[081]   # Route 11
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+MapPosition = 0,27,4
+MapSize = 1,

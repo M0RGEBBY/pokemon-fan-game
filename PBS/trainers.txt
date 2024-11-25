@@ -132,6 +132,8 @@ Pokemon = SKITTY, 10
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
+ROUTE 12
+#-------------------------------
 [LASS4, Avril]
 LoseText = That Pokémon is too strong!
 Pokemon = ZIGZAGOON, 2
@@ -140,3 +142,13 @@ Pokemon = ZIGZAGOON, 3
 [OLDWOMAN, Edith]
 LoseText = You should do fine after all...
 Pokemon = HOOTHOOT, 4
+#-------------------------------
+ROUTE 11
+#-------------------------------
+[LASS2, Jillian]
+LoseText = I do feel less scared now. Thanks.
+Pokemon = SPEWPA, 9
+#-------------------------------
+[CAMPER, Aidan]
+LoseText= I even lost to you?? Can I win against anyone?
+Pokemon = GEODUDE, 7

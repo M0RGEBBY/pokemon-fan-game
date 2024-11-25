@@ -176,7 +176,7 @@ Land,21
     40,SPEAROW,13,16
     10,SLUGMA,13,14
 #-------------------------------
-[042] # Swamp Route
+[042] # The Bog
 Land,21
     20,LECHONK,5,7
     15,HIPPOPOTAS,5,10
@@ -187,6 +187,32 @@ Land,21
     10,WOOPER_1,5
     5,GOOMY,5,10
     5,MUDKIP,5
+#-------------------------------
+[043] # Route 12
+Land,21
+    20,ROOKIDEE,2,3
+    20,ZIGZAGOON,2,3
+    10,ROOKIDEE,3,4
+    10,NICKIT,2,3
+    10,SCATTERBUG,2,3
+    10,ZIGZAGOON,3,4
+    9,NICKIT,3,4
+    5,SCATTERBUG,3,4
+    4,STANTLER,2,3
+    1,PHANTUMP,3,4
+    1,STANTLER,3,4
+Land,21
+    20,HOOTHOOT,2,3
+    20,ZIGZAGOON,2,3
+    10,HOOTHOOT,3,4
+    10,NICKIT,2,3
+    10,SCATTERBUG,2,3
+    10,ZIGZAGOON,3,4
+    9,NICKIT,3,4
+    5,SCATTERBUG,3,4
+    4,STANTLER,2,3
+    1,PHANTUMP,3,4
+    1,STANTLER,3,4
 #-------------------------------
 [044] # Route 6
 Land,21
