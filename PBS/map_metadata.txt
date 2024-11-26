@@ -107,7 +107,6 @@ Name = Freshfern Town
 Outdoor = true
 ShowArea = true
 Bicycle = true
-Weather = Sun,100
 MapPosition = 0,26,4
 #-------------------------------
 [023]   # Lerucean Town
