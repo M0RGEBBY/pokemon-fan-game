@@ -54,6 +54,13 @@ BaseMoney = 32
 Name = Bug Catcher
 Gender = Male
 BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (HGSS Youngster 2)
+#-------------------------------
+[BUGCATCHER2]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (HGSS Youngster 2)
 #-------------------------------
 [BURGLAR]
 Name = Burglar
@@ -172,7 +179,7 @@ BaseMoney = 24
 Name = Camper
 Gender = Male
 BaseMoney = 16
-IntroBGM = Trainers_ Eyes Meet (HGSS Youngster)
+IntroBGM = Trainers_ Eyes Meet (ORAS Youngster)
 #-------------------------------
 [PICNICKER]
 Name = Picnicker
@@ -193,6 +200,19 @@ BaseMoney = 60
 Name = Youngster
 Gender = Male
 BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (DP Youngster)
+#-------------------------------
+[YOUNGSTER2]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (HGSS Youngster)
+#-------------------------------
+[YOUNGSTER3]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (BW Youngster)
 #-------------------------------
 [LASS]
 Name = Lass

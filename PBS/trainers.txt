@@ -143,6 +143,23 @@ Pokemon = ZIGZAGOON, 3
 LoseText = You should do fine after all...
 Pokemon = HOOTHOOT, 4
 #-------------------------------
+Forlorn Forest
+#-------------------------------
+[BUGCATCHER, Ezra]
+LoseText = Now Asher's gonna get all the good bugs!
+Pokemon = SCATTERBUG, 3
+Pokemon = PINECO, 4
+#-------------------------------
+[YOUNGSTER2, Joey]
+LoseText = Wow. I guess I'm not a Pokémon battle aficionado.
+Pokemon = ROOKIDEE, 6
+#-------------------------------
+[BUGCATCHER2, Asher]
+LoseText = Come on! Don't let Ezra snatch everything.
+Pokemon = SCATTERBUG, 4
+Pokemon = SCATTERBUG, 3
+Pokemon = KRICKETOT, 5
+#-------------------------------
 ROUTE 11
 #-------------------------------
 [LASS2, Jillian]
