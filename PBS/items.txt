@@ -6595,4 +6595,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = An item that allows you to move across water.
+#-------------------------------
+[CLIMBINGGEAR]
+Name = Climbing Gear
+NamePlural = Climbing Gear
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A set of tools that lets you scale cliffs.
 
