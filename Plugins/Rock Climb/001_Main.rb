@@ -20,14 +20,14 @@ end
 
 GameData::TerrainTag.register({
   :id                     => :RockClimb,
-  :id_number              => 17,   #Default: 17
+  :id_number              => 18,   #Default: 17
   :rock_climb_tag         => true,
   :RockClimb              => true
 })
 
 GameData::TerrainTag.register({
   :id                     => :RockCrest,
-  :id_number              => 18,   #Default: 18
+  :id_number              => 19,   #Default: 18
   :rock_climb_tag         => true,
   :RockCrest              => true
 })
