@@ -170,4 +170,20 @@ module QuestModule
     :RewardString => "Leftovers, glorious leftovers!"
   }
 
+  OneHundredEightSpirits = {
+    :ID => "14",
+    :Name => "108 Evil Spirits",
+    :QuestGiver => "The Sage",
+    :Stage1 => "Collect 5 Wisps",
+    :Stage2 => "Collect 10 Wisps",
+    :Stage3 => "Collect 20 Wisps",
+    :Stage4 => "Collect 50 Wisps",
+    :Stage5 => "Collect 75 Wisps",
+    :Stage6 => "Collect 100 Wisps",
+    :Stage7 => "Collect 108 Wisps",
+    :Stage8 => "Go Back to the Sage",
+    :QuestDescription => "Collect the 108 Wisps in order to stop the evil spirits from causing hardships. Make sure to go back to the Sage after you collect a certain milestone.",
+    :RewardString => "Odd Keystone"
+  }
+
 end
