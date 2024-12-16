@@ -260,6 +260,14 @@ Price = 200
 Flags = Apricorn
 Description = A red Apricorn. It assails your nostrils.
 #-------------------------------
+[REDWHITEAPRICORN]
+Name = Red-White Apricorn
+NamePlural = Red-White Apricorns
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = A mottled red-white Apricorn. It has a faintly mossy smell.
+#-------------------------------
 [YELLOWAPRICORN]
 Name = Yellow Apricorn
 NamePlural = Yellow Apricorns
@@ -275,6 +283,14 @@ Pocket = 1
 Price = 200
 Flags = Apricorn
 Description = A blue Apricorn. It smells a bit like grass.
+#-------------------------------
+[BLUEREDAPRICORN]
+Name = Blue-Red Apricorn
+NamePlural = Blue-Red Apricorns
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = A mottled blue-red Apricorn. It has a noticeably mossy smell.
 #-------------------------------
 [GREENAPRICORN]
 Name = Green Apricorn
@@ -307,6 +323,22 @@ Pocket = 1
 Price = 200
 Flags = Apricorn
 Description = A black Apricorn. It has an indescribable scent.
+#-------------------------------
+[BLACKYELLOWAPRICORN]
+Name = Black-Yellow Apricorn
+NamePlural = Black-Yellow Apricorns
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = A mottled black-yellow Apricorn. It has an overwhelmingly mossy scent.
+#-------------------------------
+[PURPLEPINKAPRICORN]
+Name = Purple-Pink Apricorn
+NamePlural = Purple-Pink Apricorns
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = A mottled purple-pink Apricorn. It has a sickeningly fruity scent.
 #-------------------------------
 [HELIXFOSSIL]
 Name = Helix Fossil
