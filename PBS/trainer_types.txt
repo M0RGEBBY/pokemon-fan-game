@@ -460,3 +460,18 @@ Gender = Female
 BaseMoney = 100
 SkillLevel = 50
 IntroBGM = Alex Jones Meme Sound
+#-------------------------------
+[AMALGAMKNIGHT]
+Name = Amalgam Knight
+Gender = Male
+BaseMoney = 32
+SkillLevel = 40
+IntroBGM = Trainers_ Eyes Meet (DP Black Belt)
+#-------------------------------
+[AMALGAMBARON]
+Name = Amalgam Baron
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = Trainers_ Eyes Meet (DP Black Belt)
+

@@ -169,3 +169,45 @@ Pokemon = SPEWPA, 9
 [CAMPER, Aidan]
 LoseText= I even lost to you?? Can I win against anyone?
 Pokemon = GEODUDE, 7
+#-------------------------------
+MOSSPLUME CAVE
+#-------------------------------
+[AMALGAMKNIGHT, Boone]
+LoseText= Are you really not a spy?
+Pokemon = DRILBUR, 8
+#-------------------------------
+[AMALGAMKNIGHT, Herman]
+LoseText= I can't believe it.
+Pokemon = GEODUDE, 6
+Pokemon = BRONZOR, 7
+#-------------------------------
+[AMALGAMKNIGHT, Irving]
+LoseText= Tsk, I guess I'll let Randall handle you.
+Pokemon = SLUGMA, 9
+#-------------------------------
+[AMALGAMBARON,Randall]
+Items = POTION
+LoseText = You think I'm going to let you through just like that?
+Pokemon = GEODUDE,8
+    Form = 0
+    Gender = male
+    Moves = TACKLE,DEFENSECURL,ROCKPOLISH,MUDSLAP
+    Ability = STURDY
+    EV = 50,0,50,0,0,50
+    IV = 17,17,17,17,17,17
+    Nature = HARDY
+    Shadow = False
+    Happiness = 70
+    Ball = POKEBALL
+Pokemon = HEATMOR,10
+    Form = 0
+    Gender = female
+    Moves = LICK,TACKLE,FURYSWIPES,INCINERATE
+    Ability = GLUTTONY
+    Item = ORANBERRY
+    EV = 50,25,0,0,25,0
+    IV = 10,10,10,10,10,10
+    Nature = IMPISH
+    Shadow = False
+    Happiness = 70
+    Ball = GREATBALL
