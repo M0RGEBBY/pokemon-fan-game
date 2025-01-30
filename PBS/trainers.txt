@@ -170,7 +170,22 @@ Pokemon = SPEWPA, 9
 LoseText= I even lost to you?? Can I win against anyone?
 Pokemon = GEODUDE, 7
 #-------------------------------
+[PICNICKER, Demi]
+LoseText= I never said they were good at battling...
+Pokemon = SCATTERBUG, 4
+Pokemon = SCATTERBUG, 5
+Pokemon = SCATTERBUG, 4
+#-------------------------------
 MOSSPLUME CAVE
+#-------------------------------
+[NURSE, Penelope]
+Items = POTION
+LoseText= Okay, I'll make sure to heal your Pokémon.
+Pokemon = HAPPINY, 6
+#-------------------------------
+[BLACKBELT, Brent]
+LoseText= I've already been training all day, you know.
+Pokemon = MIENFOO, 6
 #-------------------------------
 [AMALGAMKNIGHT, Boone]
 LoseText= Are you really not a spy?

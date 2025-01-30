@@ -169,6 +169,7 @@ BaseMoney = 40
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainers_ Eyes Meet (XY Black Belt)
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
@@ -185,6 +186,7 @@ IntroBGM = Trainers_ Eyes Meet (ORAS Youngster)
 Name = Picnicker
 Gender = Female
 BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet! (SwSh Lass)
 #-------------------------------
 [COOLTRAINER_M]
 Name = Cool Trainer
@@ -474,4 +476,9 @@ Gender = Male
 BaseMoney = 40
 SkillLevel = 50
 IntroBGM = Trainers_ Eyes Meet (DP Black Belt)
-
+#-------------------------------
+[NURSE]
+Name = Nurse
+Gender = Female
+BaseMoney = 40
+IntroBGM = Trainers_ Eyes Meet (DP Aroma Lady)
