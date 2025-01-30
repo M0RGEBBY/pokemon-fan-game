@@ -414,7 +414,7 @@ BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
-[LEADER_FirstGym]
+[LEADER_Cordovan]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
