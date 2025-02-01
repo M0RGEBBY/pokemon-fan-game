@@ -1,11 +1,76 @@
-AveonTrainer - Overworld Sprites and Battle Backgrounds
-Delta32 - Overworld Sprites
-Ekat - Tilesets
-MrDollSteak, Rizon/Falsever, Sky High, Spherical Ice, Chrunch, *Luxio//Hacks* - DS Style 64x64 Resource
-Young-Dante - Overworld Sprites and Trainer Sprites
-Poffin_Case - Overworld Sprites
-Phyromatical - Tilesets
-Princess Phoenix - Battle Backgrounds
-carchagui - Battle Backgrounds
-Zeo254 - Tilesets
-kWharever - Battle Backgrounds
+Visuals:
+	Tilesets:
+		Ekat99
+		Phyromatical
+		Zeo254
+		PkmnAlexandrite
+		KingTapir
+		Emeiry
+		Magiscarf
+		LunaMaddalena
+	Overworld Sprites:
+		Delta32
+		Young-Dante
+		Poffin_Case
+		AveonTrainer
+	Trainer Sprites:
+		Young-Dante
+	Battle Backgrounds:
+		AveonTrainer
+		Princess Phoenix
+		carchagui
+		kWharever
+
+Random Pokemon Script:
+	Thundaga
+
+DS Style 64x64 Resource - Trainer Sprites:
+	MrDollSteak
+	Rizon/Falsever
+	Sky High
+	Spherical Ice
+	Chrunch
+	*Luxio//Hacks*
+
+Deluxe Battle Kit
+	Lucidious89
+
+Modern Quest System:
+	ThatWelshOne_
+	mej71
+	derFischae
+	Marin
+
+Delta Speed Up:
+	Marin (og speed up script)
+	Phantombass (19.1 version) 
+	Mashirosakura
+	Golisopod User
+	D0vid (v21.1 version)
+	Manurocker95(bug fixes)
+
+Nuzlocke X:
+	Luka S.J.
+	A.I.R
+
+Randomizer X:
+	Luka S.J.
+	A.I.R
+
+Overworld Rock Climb:
+	Original Script:
+	Ulithium_Dragon
+	zingzags
+	V20 & 21 support:
+	DarrylBD99
+
+Unreal Time System:
+	FL
+
+HGSS Apricorns:
+	DerxwnaKapsyla: Assembling the resource, putting together the animation and spritesheets
+	Zaffre: Ripping the Apricorn Tree and Apricorn graphics from HGSS
+	Brom: Ripping the audio from HGSS, figuring out the proper arc for the Apricorn animation
+
+Starter Selection:
+	DiegoWT

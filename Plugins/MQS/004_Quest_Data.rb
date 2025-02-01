@@ -186,4 +186,13 @@ module QuestModule
     :RewardString => "Odd Keystone"
   }
 
+  TechSupport = {
+    :ID => "15",
+    :Name => "Tech Support",
+    :QuestGiver => "Eugene",
+    :Stage1 => "Find a Career for Eugene",
+    :QuestDescription => "Your neighbor has fallen on hard times from unemployment. Can you find a job opportunity for him?",
+    :RewardString => "Expanded Computer"
+  }
+
 end
