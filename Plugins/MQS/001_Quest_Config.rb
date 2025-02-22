@@ -44,5 +44,7 @@ def colorQuest(color)
   return "7FDE6B39" if color == "white"
   return "751272B7" if color == "purple"
   return "0E7F4F3F" if color == "orange"
+  return "29594E7F" if color == "dred"
+  return "65CA7ED3" if color == "dblue"
   return "2D4A5694" # Returns the default dark gray color if all other options are exhausted
 end
