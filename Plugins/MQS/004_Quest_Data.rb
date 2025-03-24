@@ -170,8 +170,16 @@ module QuestModule
     :RewardString => "Leftovers, glorious leftovers!"
   }
 
-  OneHundredEightSpirits = {
+  PokemonIndex = {
     :ID => "14",
+    :Name => "A Pokémon Index",
+    :QuestGiver => "Professor Spruce",
+    :Stage1 => "Meet Up With the Professor",
+    :QuestDescription => "The professor told you to meet him at his lab in the woods north of Freshfern Town. He has a high-tech index for Pokémon he wants to give you.",
+  }
+  
+  OneHundredEightSpirits = {
+    :ID => "15",
     :Name => "108 Evil Spirits",
     :QuestGiver => "The Sage",
     :Stage1 => "Collect 5 Wisps",
@@ -187,7 +195,7 @@ module QuestModule
   }
 
   TechSupport = {
-    :ID => "15",
+    :ID => "16",
     :Name => "Tech Support",
     :QuestGiver => "Eugene",
     :Stage1 => "Find a Career for Eugene",
